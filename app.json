@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Catálogo Interativo Mobile",
+    "slug": "catalogo-interativo-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "resizeMode": "contain", "backgroundColor": "#ffffff" },
+    "android": { "package": "com.exemplo.catalogointerativo" },
+    "ios": { "bundleIdentifier": "com.exemplo.catalogointerativo" }
+  }
+}
