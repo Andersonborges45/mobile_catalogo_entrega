@@ -124,6 +124,12 @@ Starting Metro Bundler
 › Press o │ open project code in your editor
 
 › Press ? │ show all commands
-
+ 
 Logs for your project will appear below. Press Ctrl+C to exit.
 Android Bundled 1574ms node_modules\expo\AppEntry.js (949 modules)
+<img width="610" height="1356" alt="6" src="https://github.com/user-attachments/assets/9f55fb86-2015-4981-ba73-be56a22129c6" />
+<img width="610" height="1356" alt="5" src="https://github.com/user-attachments/assets/2e7d73bc-22b1-4102-9bf8-8b4d1d7ca992" />
+<img width="610" height="1356" alt="4" src="https://github.com/user-attachments/assets/8615906a-213f-4df7-83a1-9911b134faed" />
+<img width="610" height="1356" alt="3" src="https://github.com/user-attachments/assets/c3b8660c-cbc2-4168-b1d5-6ca40b7e54ea" />
+<img width="1220" height="2712" alt="2" src="https://github.com/user-attachments/assets/cbd0ad6f-09f2-4100-91b5-3df32f47521a" />
+<img width="610" height="1356" alt="1" src="https://github.com/user-attachments/assets/f356a8e2-9b5f-463a-8fd6-dbf64dd0de13" />
